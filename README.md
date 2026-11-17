@@ -10,6 +10,7 @@ own Day 2 code (see [Moving to the real lab](#moving-to-the-real-lab)).
 You need Python 3.8 or newer.
 
 ```bash
+git clone https://github.com/arpit376/Day3_Robot_Framework.git
 cd day3_robot_lab
 python3 -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
